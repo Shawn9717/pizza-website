@@ -1,0 +1,130 @@
+style>
+h2{
+    color: black
+}
+p{
+    color:black;
+}
+h1{
+    color: red;
+    font-size:larger;
+    font-weight: bold;
+}
+.h7{
+    border: 3PX solid black;
+    background-color: white;
+}
+body{background-image: url(../images/pizza2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.TOPIC-2{
+    background-color: lightslategray;
+    text-align: center;
+    font-family: 'Courier New', 'Courier', 'monospace';
+    padding: 45px;
+}
+.container{
+    width: 500px;
+    height: 400px;
+}
+.topnav {
+    background-color: silver;
+    overflow: hidden;
+    float: inline-start;
+  color:blue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  }
+  #products{
+      background-image: url(images/chef1.jpeg);
+      background-position: center;
+      background-repeat: no-repeat;
+    padding: 50px;
+  }
+  #image1{
+      text-align: left;
+  }
+  #image2{
+      text-align: center;
+  }
+  #image3{
+      text-align: right;
+  }ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(128, 128, 15);
+}
+li {
+    text-decoration-color: blueviolet;
+    display: inline;
+}
+li a {
+    display: block;
+    color: rgb(25, 32, 90);
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:large;
+}
+li a:hover {
+    background-color: rgb(2, 92, 65);
+}
+body {
+    background-image: url(../images/pizz2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Topic-1{
+    color:red;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: large;
+    padding: 0%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 45px;
+}
+#about-pic {
+    background-color: #9b9281;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#about-us {
+    padding: 65px 50px 85px;
+    width: 100%;
+    background-color:#9b9281 ;
+    float:right;
+    text-align: justify;
+    overflow-x: hidden;
+    font-size: large;
+    font-family: sans-serif;
+    text-decoration-color: burlywood;
+}
+.column {
+    float: left;
+    width: 30%;
+    padding: 2px;
+}
+.col-md-4{
+    float: left;
+  width: 20.33%;
+  padding: 5px;
+}
+.col-sm-5{
+    text-align: center;
+    background-image: url(images/);
+}
